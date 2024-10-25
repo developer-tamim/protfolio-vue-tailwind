@@ -18,6 +18,7 @@
                         Check Live
                     </div>
                 </div>
+                <div class="flex justify-between items-center"></div>
             </div>
             <div class="h-[500px] p-5 rounded-lg bg-[url(./assets/work-bg1.png)] bg-center bg-cover bg-no-repeat">2</div>
         </div>
