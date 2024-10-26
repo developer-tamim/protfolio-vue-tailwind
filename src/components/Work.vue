@@ -18,9 +18,21 @@
                         Check Live
                     </div>
                 </div>
-                <div class="flex justify-between items-center"></div>
+                <div class="flex justify-between items-center w-full">
+                    <i class="fa-solid fa-arrow-left h-8 bg-gray-900 p-2 rounded-full"></i>  
+                    
+                    <div class="flex gap-2 items-center">
+                        <div class="p-1 rounded-full bg-gray-600"></div>
+                        <div class="p-1 rounded-full bg-gray-300"></div>
+                        <div class="p-1 rounded-full bg-gray-600"></div>
+                        <div class="p-1 rounded-full bg-gray-600"></div>
+                        <div class="p-1 rounded-full bg-gray-600"></div>
+                    </div>
+                    
+                    <i class="fa-solid fa-arrow-right h-8 bg-gray-900 p-2 rounded-full"></i> 
+                </div>
             </div>
-            <div class="h-[500px] p-5 rounded-lg bg-[url(./assets/work-bg1.png)] bg-center bg-cover bg-no-repeat">2</div>
+            <div class="h-[500px] p-5 rounded-lg bg-[url(./assets/work-bg1.png)] bg-center bg-cover bg-no-repeat"></div>
         </div>
     </div>
 </template>
