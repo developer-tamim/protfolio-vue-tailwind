@@ -3,6 +3,7 @@ import Navbar from './components/Navbar.vue'
 import Header from './components/Header.vue'
 import About from './components/About.vue'
 import Work from './components/Work.vue';
+import Client from './components/Client.vue';
 </script>
 
 <template lang="">
@@ -11,6 +12,7 @@ import Work from './components/Work.vue';
     <Header />
     <About/>
     <Work/>
+    <Client/>
   </div>
 </template>
 <script>
