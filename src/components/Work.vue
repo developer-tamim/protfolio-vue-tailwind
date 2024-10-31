@@ -32,7 +32,7 @@
                     <i class="fa-solid fa-arrow-right h-8 bg-gray-900 p-2 rounded-full"></i> 
                 </div>
             </div>
-            <div class="h-[500px] p-5 rounded-lg bg-[url(./assets/work-bg1.png)] bg-center bg-cover bg-no-repeat"></div>
+            <div class="h-[500px] p-5 rounded-lg bg-[url(./assets/computer.png)] bg-center bg-cover bg-no-repeat"></div>
         </div>
     </div>
 </template>
