@@ -4,6 +4,7 @@ import Header from './components/Header.vue'
 import About from './components/About.vue'
 import Work from './components/Work.vue';
 import Client from './components/Client.vue';
+import Experience from './components/Experience.vue';
 </script>
 
 <template lang="">
@@ -13,6 +14,7 @@ import Client from './components/Client.vue';
     <About/>
     <Work/>
     <Client/>
+    <Experience/>
   </div>
 </template>
 <script>
