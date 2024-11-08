@@ -4,17 +4,16 @@
         <div class="flex gap-5">
             <div class="w-2/6 flex gap-5 rounded-lg p-5 bg-[url(./assets/computer.png)] bg-center bg-cover bg-no-repeat"></div>
             <div class="w-4/6 flex gap-5 rounded-lg p-5 bg-gray-900">
-                <div class="flex flex-col gap-5 justify-between items-center"></div>
+                <div class="flex flex-col gap-5 justify-between items-center">
+                    <img src="../assets/figma.svg" class="h-[50px] bg-gray-900 p-2 rounded-lg" alt="" />
+                </div>
                 <div class="flex flex-col justify-between items-center"></div>
             </div>
         </div>
     </div>
 </template>
 <script>
-export default {
-    
-}
+export default {};
 </script>
 <style lang="">
-    
 </style>
