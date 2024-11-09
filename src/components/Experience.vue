@@ -9,6 +9,7 @@
                 </div>
                 <div class="flex flex-col justify-between items-center"></div>
             </div>
+            test text
         </div>
     </div>
 </template>
