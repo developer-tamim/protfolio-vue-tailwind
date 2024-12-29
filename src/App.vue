@@ -5,6 +5,7 @@ import About from './components/About.vue'
 import Work from './components/Work.vue';
 import Client from './components/Client.vue';
 import Experience from './components/Experience.vue';
+import LetsTalk from './components/LetsTalk.vue';
 </script>
 
 <template lang="">
@@ -15,6 +16,7 @@ import Experience from './components/Experience.vue';
     <Work/>
     <Client/>
     <Experience/>
+    <LetsTalk/>
   </div>
 </template>
 <script>
