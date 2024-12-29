@@ -13,19 +13,19 @@
                 </div>
                 <div class="flex flex-col w-4/5 justify-between items-center">
                     <div>
-                        <h1 class="text-2xl font-bold">Figma</h1>
-                        <p class="text-gray-500 text-2xl">Lead Developer - 2022 Present</p>
-                        <p class="text-gray-500 text-lg">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                        <h1 class="text-3xl font-bold">Figma</h1>
+                        <p class="text-gray-500 text-lg">Lead Developer - 2022 Present</p>
+                        <p class="text-gray-500 text-md">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                     </div>
                     <div>
-                        <h1 class="text-2xl font-bold">Framer</h1>
-                        <p class="text-gray-500 text-2xl">Lead Developer - 2022 Present</p>
-                        <p class="text-gray-500 text-lg">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                        <h1 class="text-3xl font-bold">Framer</h1>
+                        <p class="text-gray-500 text-lg">Lead Developer - 2022 Present</p>
+                        <p class="text-gray-500 text-lg">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                     </div>
                     <div>
-                        <h1 class="text-2xl font-bold">Vue</h1>
-                        <p class="text-gray-500 text-2xl">Lead Developer - 2022 Present</p>
-                        <p class="text-gray-500 text-lg">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                        <h1 class="text-3xl font-bold">Vue</h1>
+                        <p class="text-gray-500 text-lg">Lead Developer - 2022 Present</p>
+                        <p class="text-gray-500 text-lg">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                     </div>
                 </div>
             </div>
